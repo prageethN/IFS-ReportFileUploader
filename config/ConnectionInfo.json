@@ -1,0 +1,7 @@
+{
+  "dbConnection": {
+    "service": "<server>/<SID>",
+    "user": "<db-user",
+    "password": "<password>"
+  }
+}

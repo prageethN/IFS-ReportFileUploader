@@ -1,0 +1,1 @@
+START .\lib\ReportDefinitionUploader.exe
