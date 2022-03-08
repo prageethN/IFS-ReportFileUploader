@@ -1,7 +1,0 @@
-{
-  "dbConnection": {
-    "service": "//10.242.12.4:1521/TUGRDEV",
-    "user": "ifsapp",
-    "password": "rgxqPptdEzJwf54XSw7u"
-  }
-}
